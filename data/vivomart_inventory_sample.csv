@@ -1,0 +1,169 @@
+Date,Branch,Product,Category,Opening_Stock,Stock_Received,Stock_Sold,Stock_Wasted,Expiry_Date
+01/03/2025,Branch A,Banana,Fresh Produce,149,124,157,11,06/03/2025
+01/03/2025,Branch A,Yogurt (Strawberry),Dairy,159,62,61,16,08/03/2025
+01/03/2025,Branch A,Rice 5kg,Grocery,62,137,168,1,28/08/2025
+01/03/2025,Branch A,Milk 1L,Dairy,179,85,109,7,11/03/2025
+01/03/2025,Branch A,Bread,Bakery,172,85,79,8,04/03/2025
+01/03/2025,Branch A,Bottled Water,Beverage,123,97,69,15,01/03/2026
+01/03/2025,Branch A,Chicken Breast,Meat,126,73,177,1,08/03/2025
+01/03/2025,Branch B,Banana,Fresh Produce,103,101,91,0,06/03/2025
+01/03/2025,Branch B,Yogurt (Strawberry),Dairy,162,150,112,10,08/03/2025
+01/03/2025,Branch B,Rice 5kg,Grocery,101,141,91,7,28/08/2025
+01/03/2025,Branch B,Milk 1L,Dairy,200,103,153,15,11/03/2025
+01/03/2025,Branch B,Bread,Bakery,182,137,96,22,04/03/2025
+01/03/2025,Branch B,Bottled Water,Beverage,176,111,162,0,01/03/2026
+01/03/2025,Branch B,Chicken Breast,Meat,179,51,82,7,08/03/2025
+01/03/2025,Branch C,Banana,Fresh Produce,138,134,60,0,06/03/2025
+01/03/2025,Branch C,Yogurt (Strawberry),Dairy,194,91,179,10,08/03/2025
+01/03/2025,Branch C,Rice 5kg,Grocery,150,118,87,0,28/08/2025
+01/03/2025,Branch C,Milk 1L,Dairy,176,76,178,0,11/03/2025
+01/03/2025,Branch C,Bread,Bakery,103,150,110,7,04/03/2025
+01/03/2025,Branch C,Bottled Water,Beverage,97,126,150,3,01/03/2026
+01/03/2025,Branch C,Chicken Breast,Meat,58,102,64,0,08/03/2025
+08/03/2025,Branch A,Banana,Fresh Produce,59,118,60,5,13/03/2025
+08/03/2025,Branch A,Yogurt (Strawberry),Dairy,63,52,70,2,15/03/2025
+08/03/2025,Branch A,Rice 5kg,Grocery,186,112,165,13,04/09/2025
+08/03/2025,Branch A,Milk 1L,Dairy,101,59,157,0,18/03/2025
+08/03/2025,Branch A,Bread,Bakery,121,128,142,5,11/03/2025
+08/03/2025,Branch A,Bottled Water,Beverage,176,142,133,0,08/03/2026
+08/03/2025,Branch A,Chicken Breast,Meat,57,150,147,3,15/03/2025
+08/03/2025,Branch B,Banana,Fresh Produce,127,116,109,13,13/03/2025
+08/03/2025,Branch B,Yogurt (Strawberry),Dairy,171,59,159,7,15/03/2025
+08/03/2025,Branch B,Rice 5kg,Grocery,164,130,33,0,04/09/2025
+08/03/2025,Branch B,Milk 1L,Dairy,68,57,76,4,18/03/2025
+08/03/2025,Branch B,Bread,Bakery,111,120,129,10,11/03/2025
+08/03/2025,Branch B,Bottled Water,Beverage,107,118,111,11,08/03/2026
+08/03/2025,Branch B,Chicken Breast,Meat,145,66,147,3,15/03/2025
+08/03/2025,Branch C,Banana,Fresh Produce,183,82,104,8,13/03/2025
+08/03/2025,Branch C,Yogurt (Strawberry),Dairy,90,91,131,0,15/03/2025
+08/03/2025,Branch C,Rice 5kg,Grocery,200,78,134,14,04/09/2025
+08/03/2025,Branch C,Milk 1L,Dairy,149,95,171,7,18/03/2025
+08/03/2025,Branch C,Bread,Bakery,119,149,159,0,11/03/2025
+08/03/2025,Branch C,Bottled Water,Beverage,126,132,107,15,08/03/2026
+08/03/2025,Branch C,Chicken Breast,Meat,192,146,90,0,15/03/2025
+15/03/2025,Branch A,Banana,Fresh Produce,142,149,169,0,20/03/2025
+15/03/2025,Branch A,Yogurt (Strawberry),Dairy,183,129,124,9,22/03/2025
+15/03/2025,Branch A,Rice 5kg,Grocery,127,140,121,7,11/09/2025
+15/03/2025,Branch A,Milk 1L,Dairy,59,112,49,0,25/03/2025
+15/03/2025,Branch A,Bread,Bakery,191,148,129,21,18/03/2025
+15/03/2025,Branch A,Bottled Water,Beverage,91,75,63,5,15/03/2026
+15/03/2025,Branch A,Chicken Breast,Meat,128,112,125,0,22/03/2025
+15/03/2025,Branch B,Banana,Fresh Produce,96,117,144,0,20/03/2025
+15/03/2025,Branch B,Yogurt (Strawberry),Dairy,187,140,76,0,22/03/2025
+15/03/2025,Branch B,Rice 5kg,Grocery,159,115,70,0,11/09/2025
+15/03/2025,Branch B,Milk 1L,Dairy,172,99,176,4,25/03/2025
+15/03/2025,Branch B,Bread,Bakery,96,86,107,3,18/03/2025
+15/03/2025,Branch B,Bottled Water,Beverage,111,105,50,0,15/03/2026
+15/03/2025,Branch B,Chicken Breast,Meat,135,143,102,0,22/03/2025
+15/03/2025,Branch C,Banana,Fresh Produce,93,123,59,15,20/03/2025
+15/03/2025,Branch C,Yogurt (Strawberry),Dairy,170,70,179,6,22/03/2025
+15/03/2025,Branch C,Rice 5kg,Grocery,180,125,82,11,11/09/2025
+15/03/2025,Branch C,Milk 1L,Dairy,86,109,134,3,25/03/2025
+15/03/2025,Branch C,Bread,Bakery,117,80,93,5,18/03/2025
+15/03/2025,Branch C,Bottled Water,Beverage,199,54,170,8,15/03/2026
+15/03/2025,Branch C,Chicken Breast,Meat,115,87,180,1,22/03/2025
+22/03/2025,Branch A,Banana,Fresh Produce,125,87,54,0,27/03/2025
+22/03/2025,Branch A,Yogurt (Strawberry),Dairy,69,115,97,8,29/03/2025
+22/03/2025,Branch A,Rice 5kg,Grocery,129,94,80,14,18/09/2025
+22/03/2025,Branch A,Milk 1L,Dairy,87,67,143,1,01/04/2025
+22/03/2025,Branch A,Bread,Bakery,145,111,105,0,25/03/2025
+22/03/2025,Branch A,Bottled Water,Beverage,90,79,147,1,22/03/2026
+22/03/2025,Branch A,Chicken Breast,Meat,73,52,75,2,29/03/2025
+22/03/2025,Branch B,Banana,Fresh Produce,73,124,135,0,27/03/2025
+22/03/2025,Branch B,Yogurt (Strawberry),Dairy,82,115,156,4,29/03/2025
+22/03/2025,Branch B,Rice 5kg,Grocery,138,124,60,0,18/09/2025
+22/03/2025,Branch B,Milk 1L,Dairy,157,112,172,0,01/04/2025
+22/03/2025,Branch B,Bread,Bakery,192,69,92,16,25/03/2025
+22/03/2025,Branch B,Bottled Water,Beverage,158,90,59,0,22/03/2026
+22/03/2025,Branch B,Chicken Breast,Meat,65,109,134,2,29/03/2025
+22/03/2025,Branch C,Banana,Fresh Produce,106,67,93,8,27/03/2025
+22/03/2025,Branch C,Yogurt (Strawberry),Dairy,95,62,56,5,29/03/2025
+22/03/2025,Branch C,Rice 5kg,Grocery,123,93,57,15,18/09/2025
+22/03/2025,Branch C,Milk 1L,Dairy,74,93,116,5,01/04/2025
+22/03/2025,Branch C,Bread,Bakery,118,57,131,2,25/03/2025
+22/03/2025,Branch C,Bottled Water,Beverage,176,99,93,9,22/03/2026
+22/03/2025,Branch C,Chicken Breast,Meat,98,62,158,0,29/03/2025
+29/03/2025,Branch A,Banana,Fresh Produce,69,112,31,0,03/04/2025
+29/03/2025,Branch A,Yogurt (Strawberry),Dairy,112,132,136,0,05/04/2025
+29/03/2025,Branch A,Rice 5kg,Grocery,173,138,89,22,25/09/2025
+29/03/2025,Branch A,Milk 1L,Dairy,127,101,140,0,08/04/2025
+29/03/2025,Branch A,Bread,Bakery,105,129,137,0,01/04/2025
+29/03/2025,Branch A,Bottled Water,Beverage,161,70,175,5,29/03/2026
+29/03/2025,Branch A,Chicken Breast,Meat,159,109,77,19,05/04/2025
+29/03/2025,Branch B,Banana,Fresh Produce,180,130,119,9,03/04/2025
+29/03/2025,Branch B,Yogurt (Strawberry),Dairy,163,61,149,7,05/04/2025
+29/03/2025,Branch B,Rice 5kg,Grocery,197,81,126,0,25/09/2025
+29/03/2025,Branch B,Milk 1L,Dairy,177,121,45,0,08/04/2025
+29/03/2025,Branch B,Bread,Bakery,106,105,105,0,01/04/2025
+29/03/2025,Branch B,Bottled Water,Beverage,125,124,156,4,29/03/2026
+29/03/2025,Branch B,Chicken Breast,Meat,50,126,110,0,05/04/2025
+29/03/2025,Branch C,Banana,Fresh Produce,99,122,112,0,03/04/2025
+29/03/2025,Branch C,Yogurt (Strawberry),Dairy,97,81,136,0,05/04/2025
+29/03/2025,Branch C,Rice 5kg,Grocery,92,88,78,5,25/09/2025
+29/03/2025,Branch C,Milk 1L,Dairy,63,62,76,0,08/04/2025
+29/03/2025,Branch C,Bread,Bakery,193,63,126,6,01/04/2025
+29/03/2025,Branch C,Bottled Water,Beverage,101,121,81,14,29/03/2026
+29/03/2025,Branch C,Chicken Breast,Meat,84,78,93,6,05/04/2025
+05/04/2025,Branch A,Banana,Fresh Produce,79,52,82,2,10/04/2025
+05/04/2025,Branch A,Yogurt (Strawberry),Dairy,53,114,143,1,12/04/2025
+05/04/2025,Branch A,Rice 5kg,Grocery,135,68,110,9,02/10/2025
+05/04/2025,Branch A,Milk 1L,Dairy,91,88,84,0,15/04/2025
+05/04/2025,Branch A,Bread,Bakery,197,71,143,6,08/04/2025
+05/04/2025,Branch A,Bottled Water,Beverage,194,130,132,19,05/04/2026
+05/04/2025,Branch A,Chicken Breast,Meat,185,96,64,0,12/04/2025
+05/04/2025,Branch B,Banana,Fresh Produce,136,110,103,14,10/04/2025
+05/04/2025,Branch B,Yogurt (Strawberry),Dairy,101,100,94,10,12/04/2025
+05/04/2025,Branch B,Rice 5kg,Grocery,182,127,31,27,02/10/2025
+05/04/2025,Branch B,Milk 1L,Dairy,97,80,114,0,15/04/2025
+05/04/2025,Branch B,Bread,Bakery,60,100,36,6,08/04/2025
+05/04/2025,Branch B,Bottled Water,Beverage,176,50,83,14,05/04/2026
+05/04/2025,Branch B,Chicken Breast,Meat,197,104,86,0,12/04/2025
+05/04/2025,Branch C,Banana,Fresh Produce,137,123,42,0,10/04/2025
+05/04/2025,Branch C,Yogurt (Strawberry),Dairy,148,72,172,4,12/04/2025
+05/04/2025,Branch C,Rice 5kg,Grocery,189,101,156,0,02/10/2025
+05/04/2025,Branch C,Milk 1L,Dairy,116,101,148,3,15/04/2025
+05/04/2025,Branch C,Bread,Bakery,119,92,65,14,08/04/2025
+05/04/2025,Branch C,Bottled Water,Beverage,131,110,37,0,05/04/2026
+05/04/2025,Branch C,Chicken Breast,Meat,192,114,81,22,12/04/2025
+12/04/2025,Branch A,Banana,Fresh Produce,64,99,31,13,17/04/2025
+12/04/2025,Branch A,Yogurt (Strawberry),Dairy,112,91,140,0,19/04/2025
+12/04/2025,Branch A,Rice 5kg,Grocery,93,140,177,2,09/10/2025
+12/04/2025,Branch A,Milk 1L,Dairy,199,117,47,0,22/04/2025
+12/04/2025,Branch A,Bread,Bakery,186,109,127,16,15/04/2025
+12/04/2025,Branch A,Bottled Water,Beverage,121,136,163,9,12/04/2026
+12/04/2025,Branch A,Chicken Breast,Meat,147,92,160,3,19/04/2025
+12/04/2025,Branch B,Banana,Fresh Produce,57,108,162,0,17/04/2025
+12/04/2025,Branch B,Yogurt (Strawberry),Dairy,164,106,99,8,19/04/2025
+12/04/2025,Branch B,Rice 5kg,Grocery,88,146,74,8,09/10/2025
+12/04/2025,Branch B,Milk 1L,Dairy,200,91,126,8,22/04/2025
+12/04/2025,Branch B,Bread,Bakery,141,75,130,8,15/04/2025
+12/04/2025,Branch B,Bottled Water,Beverage,164,70,137,9,12/04/2026
+12/04/2025,Branch B,Chicken Breast,Meat,146,55,43,7,19/04/2025
+12/04/2025,Branch C,Banana,Fresh Produce,50,111,123,0,17/04/2025
+12/04/2025,Branch C,Yogurt (Strawberry),Dairy,70,148,58,8,19/04/2025
+12/04/2025,Branch C,Rice 5kg,Grocery,198,64,45,21,09/10/2025
+12/04/2025,Branch C,Milk 1L,Dairy,196,73,131,6,22/04/2025
+12/04/2025,Branch C,Bread,Bakery,109,50,87,3,15/04/2025
+12/04/2025,Branch C,Bottled Water,Beverage,55,108,103,0,12/04/2026
+12/04/2025,Branch C,Chicken Breast,Meat,78,118,120,3,19/04/2025
+19/04/2025,Branch A,Banana,Fresh Produce,56,144,61,0,24/04/2025
+19/04/2025,Branch A,Yogurt (Strawberry),Dairy,181,124,176,6,26/04/2025
+19/04/2025,Branch A,Rice 5kg,Grocery,167,125,62,0,16/10/2025
+19/04/2025,Branch A,Milk 1L,Dairy,51,116,35,6,29/04/2025
+19/04/2025,Branch A,Bread,Bakery,81,140,36,18,22/04/2025
+19/04/2025,Branch A,Bottled Water,Beverage,124,129,67,0,19/04/2026
+19/04/2025,Branch A,Chicken Breast,Meat,67,105,162,1,26/04/2025
+19/04/2025,Branch B,Banana,Fresh Produce,85,102,72,5,24/04/2025
+19/04/2025,Branch B,Yogurt (Strawberry),Dairy,99,68,126,0,26/04/2025
+19/04/2025,Branch B,Rice 5kg,Grocery,165,130,133,0,16/10/2025
+19/04/2025,Branch B,Milk 1L,Dairy,75,71,115,3,29/04/2025
+19/04/2025,Branch B,Bread,Bakery,169,65,85,14,22/04/2025
+19/04/2025,Branch B,Bottled Water,Beverage,146,112,30,11,19/04/2026
+19/04/2025,Branch B,Chicken Breast,Meat,117,99,99,5,26/04/2025
+19/04/2025,Branch C,Banana,Fresh Produce,149,59,109,0,24/04/2025
+19/04/2025,Branch C,Yogurt (Strawberry),Dairy,141,112,159,9,26/04/2025
+19/04/2025,Branch C,Rice 5kg,Grocery,175,105,155,12,16/10/2025
+19/04/2025,Branch C,Milk 1L,Dairy,197,83,77,10,29/04/2025
+19/04/2025,Branch C,Bread,Bakery,111,106,160,5,22/04/2025
+19/04/2025,Branch C,Bottled Water,Beverage,117,139,169,4,19/04/2026
+19/04/2025,Branch C,Chicken Breast,Meat,65,133,131,6,26/04/2025
