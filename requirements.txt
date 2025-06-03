@@ -7,6 +7,6 @@ streamlit
 jinja2
 weasyprint
 openpyxl
-python-dateutil
 schedule
 python-dotenv
+python-dateutil

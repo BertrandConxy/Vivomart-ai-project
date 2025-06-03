@@ -1,9 +1,11 @@
-import pandas as pd
+from utils.data_loader import load_and_clean_data
+from utils.feature_engineering import add_inventory_features
 
-# Load dataset
-df = pd.read_csv('data/vivomart_inventory_sample.csv')
+df = load_and_clean_data('data/vivomart_inventory_sample.csv')
 
-# Preview
+df = add_inventory_features(df)
 print(df.head())
-print(df.columns)
-print(df.describe())
+
+# print(df.head())
+# print(df.columns)
+# print(df.describe())
