@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 from utils.feature_engineering import add_inventory_features
 from utils.data_loader import load_and_clean_data
-from models.risk_model import predict_risks
+from models.risk_model import predict_risks, predict_risks_ml
 
 from utils.metrics import (
     get_fastest_moving_products,
@@ -70,7 +70,7 @@ st.dataframe(get_category_turnover(df), use_container_width=True)
 # Predict risks
 filtered_df = predict_risks(filtered_df)
 
-st.subheader("🚨 Risk Overview")
+st.subheader("🚨 Risk Overview (Rule based)")
 
 risk_counts = filtered_df[["overstock_risk", "expiry_risk"]].sum().reset_index()
 risk_counts.columns = ["Risk Type", "Count"]
@@ -92,6 +92,14 @@ at_risk = filtered_df[filtered_df["risk_score"] > 0][[
 ]]
 st.dataframe(at_risk)
 
+# ML Prediction
+
+df = predict_risks_ml(df)
+df["Risk Label"] = df["ml_risk_prediction"].apply(lambda x: "🔴 High" if x == 1 else "🟢 Low")
+
+# Show in dashboard
+st.subheader("📊 ML Risk Prediction Results")
+st.dataframe(df[["product", "category", "branch", "stock_received", "Risk Label"]])
 
 # Charts
 st.subheader("📊 Stock Received vs. Sold")
@@ -114,3 +122,12 @@ fig2 = px.line(
     title="Wasted Stock Over Time"
 )
 st.plotly_chart(fig2, use_container_width=True)
+
+high_risk_items = df[df["ml_risk_prediction"] == 1]
+
+if not high_risk_items.empty:
+    st.warning(f"⚠️ {len(high_risk_items)} high-risk items need attention!")
+    st.dataframe(high_risk_items[["product", "branch"]])
+
+st.download_button("📥 Download High-Risk Items", high_risk_items.to_csv().encode(), file_name="high_risk.csv", mime="text/csv")
+

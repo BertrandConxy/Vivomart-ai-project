@@ -27,3 +27,13 @@ def add_inventory_features(df: pd.DataFrame) -> pd.DataFrame:
     df['is_expiring_soon'] = df['days_to_expiry'] <= 3
 
     return df
+
+def add_ml_features(df):
+    df = df.copy()
+    df["days_until_expiry"] = (df["expiry_date"] - df["date"]).dt.days
+    df["sales_ratio"] = df["stock_sold"] / (df["stock_received"] + 1)
+    df["waste_ratio"] = df["stock_wasted"] / (df["stock_received"] + 1)
+    df["day_of_week"] = df["date"].dt.dayofweek
+    df["is_weekend"] = df["day_of_week"].isin([5, 6]).astype(int)
+
+    return df

@@ -11,3 +11,4 @@ schedule
 python-dotenv
 python-dateutil
 plotly
+joblib
